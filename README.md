@@ -1,6 +1,6 @@
 ## Memory Card Game
 
-Project from Odin Project React JS section.
+Project from Odin Project React JS section. [Live preview](https://coleus99.github.io/memoryCardGame/)
 
 # Objectives
 * Create game that displays three cards, remember which one was clicked then show another 3
